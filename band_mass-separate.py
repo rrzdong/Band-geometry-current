@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jul 20 11:59:22 2025
-
-@author: admin
+@author: dongruizhi
 """
 
 import numpy as np
@@ -112,3 +110,4 @@ plt.xlim(0,len(kx_path))
 # Adjust layout to prevent overlap
 plt.tight_layout()
 plt.show()
+
