@@ -1,2 +1,2 @@
 # Band-geometry-current
-spin current calculations
+Spin current calculations for the altermagnetic Hubbard model are available.
